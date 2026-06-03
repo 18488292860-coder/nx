@@ -9,7 +9,7 @@
     "@nx/devkit": "22.7.0-beta.16",
     "@nx/js": "22.7.0-beta.16",
     "@nx/plugin": "22.7.0-beta.16",
-    "@xmldom/xmldom": "^0.8.10",
+    "@xmldom/xmldom": "^0.8.13",
     "glob": "7.1.4",
     "semver": "catalog:",
     "shiki": "^4.0.2",
