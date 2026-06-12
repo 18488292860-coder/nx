@@ -62,7 +62,7 @@
     "tsconfig-paths-webpack-plugin": "4.2.0",
     "tslib": "catalog:typescript",
     "webpack": "^5.101.3",
-    "webpack-dev-server": "^5.2.1",
+    "webpack-dev-server": "^5.2.4",
     "webpack-node-externals": "^3.0.0",
     "webpack-subresource-integrity": "^5.1.0",
     "@nx/devkit": "workspace:*",
