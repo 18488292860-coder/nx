@@ -72,7 +72,7 @@
     "source-map-loader": "^5.0.0",
     "tslib": "catalog:typescript",
     "webpack-merge": "^6.0.1",
-    "ws": "^8.18.0"
+    "ws": "^8.20.1"
   },
   "devDependencies": {
     "jsonc-eslint-parser": "^2.4.0"
